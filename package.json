@@ -1,0 +1,27 @@
+{
+  "name": "googleauth",
+  "version": "1.0.0",
+  "description": "A Google Auth node code;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/007arunwilson/google-auth-node.git"
+  },
+  "keywords": [
+    "google",
+    "auth",
+    "node"
+  ],
+  "author": "cyberinfoscripter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/007arunwilson/google-auth-node/issues"
+  },
+  "homepage": "https://github.com/007arunwilson/google-auth-node#readme",
+  "dependencies": {
+    "googleapis": "^32.0.0"
+  }
+}
